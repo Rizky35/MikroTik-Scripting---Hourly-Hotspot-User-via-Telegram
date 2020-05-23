@@ -1,4 +1,4 @@
-# MikroTik Scripting - Hotspot User Hourly via Telegram
+# MikroTik Scripting - Hourly Hotspot User via Telegram
 
 Installation
 1. Upload Script to MikroTik file then Import or you can Copy and Paste Script to terminal.
