@@ -5,4 +5,6 @@ Installation
 2. Changes Chat ID and Bot ID in available variable with your own Chat ID and Bot ID.
 3. Done.
 
+Note : This Script run at 5 AM to 6 PM
+
 Thanks
