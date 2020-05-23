@@ -10,4 +10,4 @@ add disabled=yes interval=1h name=perjam on-event="{\
 add interval=1d name="nonaktifkan perjam" on-event="/system scheduler disable perjam;" policy=\
     ftp,reboot,read,write,policy,test,password,sniff,sensitive,romon start-date=sep/10/2019 start-time=18:00:01
 add interval=1d name="aktifkan perjam dan total user" on-event="/system scheduler enable perjam;" policy=\
-    ftp,reboot,read,write,policy,test,password,sniff,sensitive,romon start-date=sep/10/2019 start-time=04:59:50
+    ftp,reboot,read,write,policy,test,password,sniff,sensitive,romon start-date=sep/10/2019 start-time=04:59:55
